@@ -43,6 +43,7 @@
 #include "openmm/AmoebaGeneralizedKirkwoodForce.h"
 #include "openmm/AmoebaVdwForce.h"
 #include "openmm/AmoebaWcaDispersionForce.h"
+#include "openmm/AmoebaGKCavitationForce.h"
 #include "openmm/HippoNonbondedForce.h"
 
 #endif /*AMOEBA_OPENMM_H_*/
